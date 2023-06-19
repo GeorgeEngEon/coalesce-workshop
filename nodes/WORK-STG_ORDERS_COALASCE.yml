@@ -24,7 +24,7 @@ steps:
             description: ""
             hashColumns: []
             hashDetails: null
-            name: id
+            name: ID
             nullable: false
             sourceColumnReferences:
               - columnReferences:
@@ -38,7 +38,7 @@ steps:
             description: ""
             hashColumns: []
             hashDetails: null
-            name: product_id
+            name: PRODUCT_ID
             nullable: false
             sourceColumnReferences:
               - columnReferences:
@@ -52,7 +52,7 @@ steps:
             description: ""
             hashColumns: []
             hashDetails: null
-            name: state
+            name: STATE
             nullable: false
             sourceColumnReferences:
               - columnReferences:

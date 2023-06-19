@@ -20,7 +20,7 @@ steps:
             dataType: INTEGER
             defaultValue: ""
             description: ""
-            name: id
+            name: ID
             nullable: false
             primaryKey: false
             uniqueKey: false
@@ -35,7 +35,7 @@ steps:
             dataType: INTEGER
             defaultValue: ""
             description: ""
-            name: product_id
+            name: PRODUCT_ID
             nullable: false
             primaryKey: false
             uniqueKey: false
@@ -50,7 +50,7 @@ steps:
             dataType: VARCHAR(50)
             defaultValue: ""
             description: ""
-            name: state
+            name: STATE
             nullable: false
             primaryKey: false
             uniqueKey: false

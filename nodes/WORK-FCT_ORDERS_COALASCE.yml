@@ -36,25 +36,11 @@ steps:
             description: ""
             hashColumns: []
             hashDetails: null
-            name: id
+            name: ID
             nullable: false
             sourceColumnReferences:
               - columnReferences:
                   - columnCounter: 20be5566-4a70-44bb-8211-a48ede44c829
-                    stepCounter: e7a9dea6-3577-4d70-aea1-e6b4a30043bb
-                transform: ""
-          - columnReference:
-              columnCounter: 012c6992-dccd-4817-821b-efa190523ec0
-              stepCounter: e9bba264-e114-4f97-8a32-9e6eb29d5368
-            dataType: VARCHAR(25)
-            description: ""
-            hashColumns: []
-            hashDetails: null
-            name: S_NAME
-            nullable: false
-            sourceColumnReferences:
-              - columnReferences:
-                  - columnCounter: dd783d4a-27c3-4ec8-9f43-2e7fba61e0a7
                     stepCounter: e7a9dea6-3577-4d70-aea1-e6b4a30043bb
                 transform: ""
           - columnReference:
@@ -64,7 +50,7 @@ steps:
             description: ""
             hashColumns: []
             hashDetails: null
-            name: product_id
+            name: PRODUCT_ID
             nullable: false
             sourceColumnReferences:
               - columnReferences:
@@ -78,7 +64,7 @@ steps:
             description: ""
             hashColumns: []
             hashDetails: null
-            name: state
+            name: STATE
             nullable: false
             sourceColumnReferences:
               - columnReferences:
