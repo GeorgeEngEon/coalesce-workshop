@@ -128,7 +128,7 @@ steps:
                     stepCounter: e7a9dea6-3577-4d70-aea1-e6b4a30043bb
                 transform: ""
           - columnReference:
-              columnCounter: 6d920de7-7689-4bdc-9fd9-953723d2688e
+              columnCounter: 6d920de7-7689-4bdc-9fd9-953723d2688ey
               stepCounter: e9bba264-e114-4f97-8a32-9e6eb29d5368
             dataType: TIMESTAMP
             description: ""
@@ -142,7 +142,7 @@ steps:
                     stepCounter: e7a9dea6-3577-4d70-aea1-e6b4a30043bb
                 transform: ""
           - columnReference:
-              columnCounter: 64265452-bfba-4193-b314-01cd571c61f3
+              columnCounter: 64265452-bfba-4193-b314-01cd571c61f3d
               stepCounter: e9bba264-e114-4f97-8a32-9e6eb29d5368
             dataType: TIMESTAMP
             description: ""
