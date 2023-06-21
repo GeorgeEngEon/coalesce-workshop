@@ -1,6 +1,14 @@
 defaultStorageMapping: WORK
 jobs: {}
 locations:
+  JAFFLE_SHOP:
+    mappingDefinitions:
+      "2":
+        database: ""
+        schema: ""
+      "3":
+        database: ""
+        schema: ""
   SAMPLE:
     mappingDefinitions:
       "2":
@@ -9,6 +17,14 @@ locations:
       "3":
         database: SNOWFLAKE_SAMPLE_DATA
         schema: TPCH_SF1
+  STRIPE:
+    mappingDefinitions:
+      "2":
+        database: ""
+        schema: ""
+      "3":
+        database: ""
+        schema: ""
   WORK:
     mappingDefinitions:
       "2":
